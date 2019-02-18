@@ -1,0 +1,14 @@
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.deps.json
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.pdb
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.csprojResolveAssemblyReference.cache
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.AssemblyInfo.cs
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.pdb
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.deps.json
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.pdb
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.csprojResolveAssemblyReference.cache
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.AssemblyInfo.cs
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Core\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.pdb

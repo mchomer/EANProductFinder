@@ -1,0 +1,28 @@
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.deps.json
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.runtimeconfig.json
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.runtimeconfig.dev.json
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.pdb
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.pdb
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.csprojResolveAssemblyReference.cache
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.AssemblyInfo.cs
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.dll
+c:\users\krämer\documents\visual studio 2017\Projects\mchomerEANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.pdb
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.deps.json
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.runtimeconfig.json
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.runtimeconfig.dev.json
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.pdb
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\bin\Debug\netcoreapp1.1\mchomerEANProductFinder.Core.pdb
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.csprojResolveAssemblyReference.cache
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.AssemblyInfo.cs
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.dll
+C:\Users\Michel Krämer\Source\Repos\EANProductFinder\mchomerEANProductFinder.Test\obj\Debug\netcoreapp1.1\mchomerEANProductFinder.Test.pdb

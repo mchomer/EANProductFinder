@@ -1,0 +1,130 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "44a1a45e00d5c3d0673a5b7da5f3f0d9244feb7c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "mchomereanproductfinder.core/1.0.0": {
+        "dependencies": {
+          "RSA.Fizzler": "1.0.0",
+          "RSA.Fizzler.Systems.HtmlAgilityPack": "1.0.0"
+        },
+        "runtime": {
+          "mchomerEANProductFinder.Core.dll": {}
+        }
+      },
+      "devzh.htmlagilitypack/1.4.9.4": {
+        "dependencies": {
+          "System.Collections.NonGeneric": "4.0.1",
+          "System.Diagnostics.TraceSource": "4.0.0",
+          "System.Xml.XPath.XmlDocument": "4.0.1"
+        },
+        "runtime": {
+          "lib/netstandard1.5/DevZH.HtmlAgilityPack.dll": {}
+        }
+      },
+      "rsa.fizzler/1.0.0": {
+        "dependencies": {
+          "System.Runtime.Serialization.Primitives": "4.1.1"
+        },
+        "runtime": {
+          "lib/netstandard1.6/RSA.Fizzler.dll": {}
+        }
+      },
+      "rsa.fizzler.systems.htmlagilitypack/1.0.0": {
+        "dependencies": {
+          "DevZH.HtmlAgilityPack": "1.4.9.4",
+          "RSA.Fizzler": "1.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.6/RSA.Fizzler.Systems.HtmlAgilityPack.dll": {}
+        }
+      },
+      "system.collections.nongeneric/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Collections.NonGeneric.dll": {}
+        }
+      },
+      "system.diagnostics.tracesource/4.0.0": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Diagnostics.TraceSource.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      },
+      "system.runtime.serialization.primitives/4.1.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Runtime.Serialization.Primitives.dll": {}
+        }
+      },
+      "system.xml.xpath.xmldocument/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mchomereanproductfinder.core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "devzh.htmlagilitypack/1.4.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wd6H7OuE9jFtQ9fbdD+CKuYhJxMOpF95FSpRYlQJzHVQrUoA1fRE6ml1NI7E2fPVrw2dQgvjtknbAN1oS5HFng==",
+      "path": "devzh.htmlagilitypack/1.4.9.4",
+      "hashPath": "devzh.htmlagilitypack.1.4.9.4.nupkg.sha512"
+    },
+    "rsa.fizzler/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MI3mASUA+QeXPq6gBX3+nhF1mt/kr4CsUjoegIaeBsji7b8/+prxcQTP5lQiGW5UwEAqFqIdaay4eG7FvbduKA==",
+      "path": "rsa.fizzler/1.0.0",
+      "hashPath": "rsa.fizzler.1.0.0.nupkg.sha512"
+    },
+    "rsa.fizzler.systems.htmlagilitypack/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-e2CleB2ECqd5KTpFzsTnt6TqcWMls8XJj0D9j76zaJFsB9oB1IXIWgpZfVmzEmir0Jp2mJix4RtUYlQSHMuqnQ==",
+      "path": "rsa.fizzler.systems.htmlagilitypack/1.0.0",
+      "hashPath": "rsa.fizzler.systems.htmlagilitypack.1.0.0.nupkg.sha512"
+    },
+    "system.collections.nongeneric/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hMxFT2RhhlffyCdKLDXjx8WEC5JfCvNozAZxCablAuFRH74SCV4AgzE8yJCh/73bFnEoZgJ9MJmkjQ0dJmnKqA==",
+      "path": "system.collections.nongeneric/4.0.1",
+      "hashPath": "system.collections.nongeneric.4.0.1.nupkg.sha512"
+    },
+    "system.diagnostics.tracesource/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6WVCczFZKXwpWpzd/iJkYnsmWTSFFiU24Xx/YdHXBcu+nFI/ehTgeqdJQFbtRPzbrO3KtRNjvkhtj4t5/WwWsA==",
+      "path": "system.diagnostics.tracesource/4.0.0",
+      "hashPath": "system.diagnostics.tracesource.4.0.0.nupkg.sha512"
+    },
+    "system.runtime.serialization.primitives/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "path": "system.runtime.serialization.primitives/4.1.1",
+      "hashPath": "system.runtime.serialization.primitives.4.1.1.nupkg.sha512"
+    },
+    "system.xml.xpath.xmldocument/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zm2BdeanuncYs3NhCj4c9e1x3EXFzFBVv2wPEc/Dj4ZbI9R8ecLSR5frAsx4zJCPBtKQreQ7Q/KxJEohJZbfzA==",
+      "path": "system.xml.xpath.xmldocument/4.0.1",
+      "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
+    }
+  }
+}

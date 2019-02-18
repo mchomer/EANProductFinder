@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RSA.Fizzler" Version="1.0.0" />
+    <PackageReference Include="RSA.Fizzler.Systems.HtmlAgilityPack" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
